@@ -113,35 +113,7 @@ iframe {
 	text-align: center;
 	width: 25%;
 }
-@media(max-width: 1450px) {
-	#left_side{
-		flex:100%;
-	}
-	#right_side{
-		flex:100%;
-	}
-	#flex_container{
-		flex-wrap: wrap;
-	}
-	.sach_item{
-		width: 33%;
-	}
-	.video_item{
-		flex: 33%;
-	}
-	#ACT{
-		padding: 50px 30px;	
-	}
-	#VD{
-		padding: 50px 30px;
-	}
-	#ĐS{
-		padding: 50px 30px;
-	}
-	#CVNV{
-		padding: 50px 20px;
-	}
-}
+
 @media(max-width: 1200px) {
 	#left_side{
 		flex:100%;
