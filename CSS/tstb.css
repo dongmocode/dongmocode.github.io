@@ -249,7 +249,7 @@ iframe {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	width: 30%;
+	width: 37%;
 	aspect-ratio: 16 / 5; /* Tự co theo chiều rộng, không cần height cố định */
 }
 
